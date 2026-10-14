@@ -5,12 +5,6 @@
   readline tab completion, a colorized <code>ls</code>, and an isolated working environment.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/language-C-blue" alt="Language: C">
-  <img src="https://img.shields.io/badge/requires-GNU%20readline-green" alt="Requires readline">
-  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey" alt="Platform">
-</p>
-
 ---
 
 ## Table of Contents
